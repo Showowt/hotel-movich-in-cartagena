@@ -7,6 +7,10 @@ module.exports = {
         primary: "#d4af37",
         dark: "#0f0f1a",
         darker: "#0a0a12",
+      },
+      fontFamily: {
+        display: ["Playfair Display", "serif"],
+        body: ["Inter", "sans-serif"],
       }
     }
   },
